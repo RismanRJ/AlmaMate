@@ -1,11 +1,11 @@
 {
   "web": {
-    "client_id": "558115943972-8t9mh62ufu5br332qfdmpo32v1s7n2av.apps.googleusercontent.com",
-    "project_id": "almahub-445215",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_secret": "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",
+    "client_id": "",
+    "project_id": "",
+    "auth_uri": "",
+    "token_uri": "",
+    "auth_provider_x509_cert_url": "",
+    "client_secret": "",
     "redirect_uris": ["http://localhost:3500/almaHub/auth/google/callback"]
   }
 }
